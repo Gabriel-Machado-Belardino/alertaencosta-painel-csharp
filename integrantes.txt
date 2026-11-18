@@ -1,0 +1,11 @@
+AlertaEncosta - Painel da Defesa Civil (C# Windows Forms)
+FIAP - Global Solution 2026.2 (CitizenTech) - Engenharia de Software, 3o ano
+Disciplina: C# Software Development
+
+Repositorio: [ADICIONAR LINK DO REPOSITORIO AQUI]
+
+RM560239 - Gustavo Neri Santos
+RM559813 - Matheus Aparecido Rocha Plati
+RM560271 - Gustavo Pandolfo Meroni
+RM550121 - Gabriel Machado Belardino
+RM559616 - Gustavo Franco Tarano

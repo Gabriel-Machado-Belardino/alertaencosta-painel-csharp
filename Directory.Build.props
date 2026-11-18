@@ -1,0 +1,14 @@
+<Project>
+  <!-- Versão única da solução (Versionamento Semântico: MAJOR.MINOR.PATCH). Ver CHANGELOG.md -->
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <!-- .NET 10 (LTS). Para abrir no Visual Studio 2022 com .NET 8: dotnet build -p:DotNetAlvo=net8.0 (ou troque aqui). -->
+    <DotNetAlvo Condition="'$(DotNetAlvo)' == ''">net10.0</DotNetAlvo>
+    <Authors>Gustavo Neri Santos; Matheus Aparecido Rocha Plati; Gustavo Pandolfo Meroni; Gabriel Machado Belardino; Gustavo Franco Tárano</Authors>
+    <Company>AlertaEncosta · FIAP Global Solution 2026.2</Company>
+    <Product>AlertaEncosta · Painel da Defesa Civil</Product>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
