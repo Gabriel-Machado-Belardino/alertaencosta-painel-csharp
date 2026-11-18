@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>$(DotNetAlvo)-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>PainelDefesaCivil</AssemblyName>
+    <RootNamespace>AlertaEncosta.Painel</RootNamespace>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationVisualStyles>true</ApplicationVisualStyles>
+    <ApplicationDefaultFont>Segoe UI, 10pt</ApplicationDefaultFont>
+    <ApplicationIcon>alertaencosta.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlertaEncosta.Core\AlertaEncosta.Core.csproj" />
+  </ItemGroup>
+
+</Project>
