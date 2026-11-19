@@ -25,5 +25,5 @@ Primeira versão entregue na Global Solution 2026.2.
 ### Adicionado
 - Estrutura inicial da solução (`AlertaEncosta.Core` e `AlertaEncosta.Core.Tests`), README com a Ficha da CitizenTech e lista de integrantes.
 
-[1.0.0]: ../../compare/v0.1.0...v1.0.0
-[0.1.0]: ../../releases/tag/v0.1.0
+[1.0.0]: https://github.com/Gabriel-Machado-Belardino/alertaencosta-painel-csharp/compare/v0.1.0...v1.0.0
+[0.1.0]: https://github.com/Gabriel-Machado-Belardino/alertaencosta-painel-csharp/releases/tag/v0.1.0

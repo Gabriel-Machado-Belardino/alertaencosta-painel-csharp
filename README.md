@@ -28,6 +28,7 @@ Este repositório contém a **parte de C#** do projeto **AlertaEncosta**: o pain
 | **Como funciona** | Sensores no bairro (ESP32) → API → modelo de ML que calcula o risco por setor → alerta push no app do morador com rota segura até um ponto de apoio; **painel desktop (este repositório) para a Defesa Civil** |
 | **Indicador de impacto** | Antecedência média do alerta (meta: ≥ 2 h antes do pico) e % de moradores alertados que confirmaram estar em local seguro (meta: 80%). **Os dois são calculados e exibidos no painel** |
 | **ODS conectados** | ODS 11 (meta 11.5), ODS 13 (meta 13.1) e ODS 3 (meta 3.d) |
+| **Link do repositório** | <https://github.com/Gabriel-Machado-Belardino/alertaencosta-painel-csharp> |
 
 ### O problema que esta parte resolve
 
